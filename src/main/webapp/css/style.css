@@ -1,0 +1,12 @@
+/* Just to confirm it's working */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Table Header Styling */
+th {
+    background-color: #007bff;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
